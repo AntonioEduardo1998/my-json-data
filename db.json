@@ -2,43 +2,9 @@
     "users": [
         {
             "id": "e0f04f4a-5d82-44f3-8ab0-c657b06ea9af",
-            "name": "Leanne Graham"
-        },
-        {
-            "id": "c64cf74e-43c1-4a25-a96e-f92b23bb4bfd",
-            "name": "Ervin Howell"
-        },
-        {
-            "id": "36c20046-372b-4094-a25b-61e91c34c534",
-            "name": "Clementine Bauch"
-        },
-        {
-            "id": "36c20046-372b-4094-a25b-61e91c34c534",
-            "name": "Clementine Bauch"
-        },
-        {
-            "id": "36c20046-372b-4094-a25b-61e91c34c534",
-            "name": "Clementine Bauch"
-        },
-        {
-            "id": "36c20046-372b-4094-a25b-61e91c34c534",
-            "name": "Clementine Bauch"
-        },
-        {
-            "id": "36c20046-372b-4094-a25b-61e91c34c534",
-            "name": "Clementine Bauch"
-        },
-        {
-            "id": "36c20046-372b-4094-a25b-61e91c34c534",
-            "name": "Clementine Bauch"
-        },
-        {
-            "id": "36c20046-372b-4094-a25b-61e91c34c534",
-            "name": "Clementine Bauch"
-        },
-        {
-            "id": "36c20046-372b-4094-a25b-61e91c34c534",
-            "name": "Clementine Bauch"
+            "name": "Antonio Eduardo R Oliveira",
+            "email": "antonioeduardo1998@gmail.com",
+            "birthDay": "08/07/1998"
         }
     ]
 }
